@@ -8,6 +8,7 @@ public class MyArrayUtils {
 		return arrays;
 	}
 
+	//used for counting sort
 	public static int[][] getPositiveArrays() {
 		int[][] arrays = { { 20, 35, 15, 7, 55, 1, 22 }, { 1, 2, 3, 4, 5, 6, 7, 8 }, { 55, 45, 35, 25, 15, 1, 15 },
 				{ 4, 1, 3, 9, 7 }, { 2, 5, 9, 8, 2, 8, 7, 10, 4, 3 } };
