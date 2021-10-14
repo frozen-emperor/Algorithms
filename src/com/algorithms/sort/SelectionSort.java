@@ -20,6 +20,7 @@ public class SelectionSort {
 		System.out.println("arr sorted ascending:");
 		PrintUtils.printArrays(arr);
 		selectionSortDescend(arr);
+		//print arrays
 		System.out.println("arr sorted descending:");
 		PrintUtils.printArrays(arr);
 	}
